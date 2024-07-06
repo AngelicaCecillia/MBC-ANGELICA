@@ -126,7 +126,7 @@ nav a:hover::after {
     position: fixed;
     top: 80px; 
     right: 40px;
-    background-color: #172F3F;
+    background-color: #333333;
     list-style-type: none;
     padding: 0;
     z-index: 999;
@@ -380,7 +380,7 @@ body {
 
 .box-portofolio {
     flex: 1;
-    background-color: #172F3F;
+    background-color: #333333;
     color: #FFFFFF;
     padding: 0;
     text-align: center;
@@ -739,7 +739,7 @@ footer {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(0deg, #051F30, #051F30 40%, #172F3F 100%);
+    background: linear-gradient(0deg, #051F30, #051F30 40%, #333333 100%);
     color: #FFFFFF;
     text-align: center;
     padding: 20px;
@@ -751,7 +751,7 @@ footer {
 }
 
 footer.active {
-    background-color: #172F3F;
+    background-color: #333333;
 }
 
 .social-icons {
