@@ -25,7 +25,7 @@ header {
 }
 
 .link-header:hover {
-    background: linear-gradient(45deg, #14B8A6, #2980b9, #0056b3);
+    background: linear-gradient(45deg, #FFFFFF, #E60305);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -273,7 +273,7 @@ body {
 
 .titleabout {
     text-align: left;
-    color: #14B8A6;
+    color: #E60305;
     flex: 1;
     margin-right: 1.5vw;
     margin-left: 4vw;
@@ -319,17 +319,17 @@ body {
     text-align: center;
     padding: 1vw 2.5vw;
     border-radius: 5vw;
-    background-color: #14B8A6;
+    background-color: #E60305;
     color: #FFFFFF;
     text-decoration: none;
     font-size: 1vw;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    box-shadow: 0 0.1vw 2vw #14B8A6;
+    box-shadow: 0 0.1vw 2vw #E60305;
 }
 
 .oval-button-about:hover {
-    background: linear-gradient(45deg,  #14B8A6, #2980b9, #0056b3);
+    background: linear-gradient(45deg,  #FFFFFF, #E60305);
     transform: scale(1.1);
     box-shadow: 0 0.1vw 2vw rgb(255, 255, 255);
 }
@@ -340,7 +340,7 @@ body {
 
 .titleportofolio {
     text-align: center;
-    color: #14B8A6;
+    color: #E60305;
     flex: 1;
     margin-right: 1.5vw;
     margin-left: 4vw;
@@ -420,7 +420,7 @@ body {
 }
 
 .box-portofolio:hover .title-project-portofolio {
-    color: #14B8A6;
+    color: #E60305;
 }
 
 .desc-project-portofolio {
@@ -444,7 +444,7 @@ body {
 
 .lang-oval-portofolio {
     display: inline-block;
-    background-color: #14B8A6;
+    background-color: #E60305;
     color: #FFFFFF;
     border-radius: 10px; 
     padding: 4px 15px 14px 15px; 
@@ -464,17 +464,17 @@ body {
     text-align: center;
     padding: 1vw 2vw;
     border-radius: 5vw;
-    background-color: #14B8A6;
+    background-color: #E60305;
     color: #FFFFFF;
     text-decoration: none;
     font-size: 1vw;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    box-shadow: 0 0.1vw 2vw #14B8A6;
+    box-shadow: 0 0.1vw 2vw #E60305;
 }
 
 .oval-button-portofolio:hover {
-    background: linear-gradient(45deg,  #14B8A6, #2980b9, #0056b3);
+    background: linear-gradient(45deg,  #FFFFFF, #E60305);
     transform: scale(1.1);
     box-shadow: 0 0.1vw 2vw rgb(255, 255, 255);
 }
@@ -485,7 +485,7 @@ body {
 
 .titlepost {
     text-align: center;
-    color: #14B8A6;
+    color: #E60305;
     flex: 1;
     margin-right: 1.5vw;
     margin-left: 4vw;
@@ -566,7 +566,7 @@ body {
   }
 
 .box-post:hover .title-project-post {
-    color: #14B8A6;
+    color: #E60305;
 }
 
 .desc-project-post {
@@ -586,7 +586,7 @@ body {
 
 .lang-oval-post {
     display: inline-block;
-    background-color: #14B8A6;
+    background-color: #E60305;
     color: #FFFFFF;
     border-radius: 10px; 
     padding: 4px 15px 14px 15px; 
@@ -606,17 +606,17 @@ body {
     text-align: center;
     padding: 1vw 2vw;
     border-radius: 5vw;
-    background-color: #14B8A6;
+    background-color: #E60305;
     color: #FFFFFF;
     text-decoration: none;
     font-size: 1vw;
     cursor: pointer;
     transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-    box-shadow: 0 0.1vw 2vw #14B8A6;
+    box-shadow: 0 0.1vw 2vw #E60305;
 }
 
 .oval-button-post:hover {
-    background: linear-gradient(45deg,  #14B8A6, #2980b9, #0056b3);
+    background: linear-gradient(45deg,  #FFFFFF, #E60305);
     transform: scale(1.1);
     box-shadow: 0 0.1vw 2vw rgb(255, 255, 255);
 }
@@ -799,7 +799,7 @@ footer.active {
 }
 
 .highlighted-text {
-    color: #14B8A6; 
+    color: #E60305; 
 }
 
 @media (max-width: 768px) {
@@ -826,12 +826,12 @@ footer.active {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #14B8A6;
+  background-color: #E60305;
   border-radius: 5px; 
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(45deg, #14B8A6, #0056b3, #5400b3); 
+  background: linear-gradient(45deg, #FFFFFF, #E60305); 
 }
 
 * {
@@ -845,10 +845,10 @@ footer.active {
 }
 
 *::-webkit-scrollbar-thumb {
-  background-color: #14B8A6;
+  background-color: #E60305;
   border-radius: 5px;
 }
 
 *::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(45deg, #14B8A6, #0056b3, #5400b3); 
+  background: linear-gradient(45deg, #FFFFFF, #E60305); 
 }
