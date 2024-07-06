@@ -5,7 +5,7 @@ html {
 
 header {
     position: fixed;
-    background-color: #051F30;
+    background-color: #0F0D0E;
     top: 0;
     left: 0;
     width: 100vw;
@@ -25,7 +25,7 @@ header {
 }
 
 .link-header:hover {
-    background: linear-gradient(45deg, #FFFFFF, #E60305);
+    background: linear-gradient(45deg, #FFFFFF, #E60305, #FF0000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -51,7 +51,7 @@ img.header {
 }
 
 nav {
-    background-color: #051F30;
+    background-color: #0F0D0E;
     display: flex;
     justify-content: flex-end;
     align-items: center;
@@ -195,7 +195,7 @@ nav a:hover::after {
 
 body {
     position: relative;
-    background-color: #051F30;
+    background-color: #0F0D0E;
     color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
@@ -210,7 +210,7 @@ body {
     justify-content: baseline;
     align-items: center;
     text-align: center;
-    background: #051F30;
+    background: #0F0D0E;
     transition: transform 0.5s ease-in-out;
 }
 
@@ -519,7 +519,7 @@ body {
 
 .box-post {
     flex: 1;
-    background-color: #051F30;
+    background-color: #333333;
     color: #FFFFFF;
     padding: 0;
     text-align: center;
@@ -616,7 +616,7 @@ body {
 }
 
 .oval-button-post:hover {
-    background: linear-gradient(45deg,  #FFFFFF, #E60305);
+    background: linear-gradient(45deg,  #FFFFFF, #E60305, #FF0000);
     transform: scale(1.1);
     box-shadow: 0 0.1vw 2vw rgb(255, 255, 255);
 }
@@ -831,7 +831,7 @@ footer.active {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(45deg, #FFFFFF, #E60305); 
+  background: linear-gradient(45deg, #FFFFFF, #E60305, #FF0000); 
 }
 
 * {
@@ -850,5 +850,5 @@ footer.active {
 }
 
 *::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(45deg, #FFFFFF, #E60305); 
+  background: linear-gradient(45deg, #FFFFFF, #E60305, #FF0000); 
 }
